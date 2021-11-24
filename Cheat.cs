@@ -67,13 +67,13 @@ Parasite
 	Mist : mgsvtpp.exe+2C126D4 Max : 6000
 	Camouflage :mgsvtpp.exe+2C126D8 Max : 6000
 	Armor : mgsvtpp.exe+2C126DC Max : 6000
-GodMod
+GodMod - Work FOB
 	mgsvtpp.exe+2C0145C = 65543560
 	mgsvtpp.exe+2BD4060 = 7560
 	mgsvtpp.exe+2BD4E60 = 7560
 Night/Day
 	mgsvtpp.exe+2C0139C = 86000/45000
-Camouflage (if Camo PP equipped) /!\ no work FOB /!\
+Camouflage (if Camo PP equipped) /!\ No Work FOB /!\
 	mgsvtpp.exe+2A5D164 = 450
 Nuclear weapon : mgsvtpp.exe+2C126CC max : 8
 */
