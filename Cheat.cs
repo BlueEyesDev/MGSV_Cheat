@@ -24,7 +24,7 @@ using System.Diagnostics;
 			{ "UnlimitedAmmo", false},
 			{ "AutoETO", false },
 			{ "Night", true },
-			{ "Stealth", true}
+			{ "Stealth", false}
 
 		};
 		public static string Mode { get; set; }
