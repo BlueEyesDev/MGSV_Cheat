@@ -5,7 +5,7 @@ Unlimited PIM</br>
 Ping Teleport</br>
 Unlimited resources</br>
 GodMOD - WORK FOB (Host)</br> 
-Ivisible - NOT WORK FOB</br>
+Ivisible - NOT WORK FOB (Is use is banned)</br>
 AllETO -  WORK FOB (Host, Join is maybe) </br> 
 TimeFreeze Night/Day</br>
 Infinited AMMO - Not FOB #Fix for single</br></br>
