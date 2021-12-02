@@ -23,7 +23,8 @@ using System.Diagnostics;
 			{ "GodMod", false},
 			{ "UnlimitedAmmo", false},
 			{ "AutoETO", false },
-			{ "Night", true }
+			{ "Night", true },
+			{ "Stealth", true}
 
 		};
 		public static string Mode { get; set; }
@@ -46,6 +47,12 @@ using System.Diagnostics;
 			})
 			{ IsBackground = true }.Start();
 
+			new Thread(() =>
+           		{
+                		while (true)
+					while (CheatEnable["Stealth"])
+                    				WriteProcessMemory((int)WprocessHandle, process.MainModule.BaseAddress + 0x2A5D164, new byte[] { 0xC2, 0x01, 0x00, 0x00 }, 4, ref bytesWritten);
+            		}){ IsBackground = true }.Start();
 			//PingTeleport
 			new Thread(() =>
 			{
