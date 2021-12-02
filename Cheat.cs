@@ -105,7 +105,7 @@ using System.Diagnostics;
 					if (CheatEnable["Night"])
 						Write(process.MainModule.BaseAddress + 0x2C0139C, new byte[] { 0xF0, 0x4F, 0x01, 0x00 });
 					else
-						Write(process.MainModule.BaseAddress + 0x2C0139C, new byte[] { 0xF0, 0x4F, 0x01, 0x00 });
+						Write(process.MainModule.BaseAddress + 0x2C0139C, new byte[] { 0xD9, 0x9C, 0x00, 0x00 });
 
 			}) { IsBackground = true }.Start();
 
