@@ -10,6 +10,6 @@ AllETO -  WORK FOB (Host, Join is maybe) </br>
 TimeFreeze Night/Day</br>
 Infinited AMMO - Not FOB #For Fix single</br></br>
 
-Maybe realese BanFOB Player ;)</br>
+Maybe realese BanFOB Player and AntiBan ;)</br>
 
 ![alt text](https://i.gyazo.com/715e225e047f0cd83f6b03142d21147a.png) 
