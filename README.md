@@ -8,7 +8,7 @@ GodMOD - WORK FOB (Host)</br>
 Ivisible - NOT WORK FOB</br>
 AllETO -  WORK FOB (Host, Join is maybe) </br> 
 TimeFreeze Night/Day</br>
-Infinited AMMO - Not FOB #For Fix single</br></br>
+Infinited AMMO - Not FOB #Fix for single</br></br>
 
 Maybe realese BanFOB Player and AntiBan ;)</br>
 
